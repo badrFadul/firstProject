@@ -1,33 +1,35 @@
 # firstProject
-# (Todo list Application)
+# (Application Todo list)
 ---
 
 <!--- <BadrFadul> <firstProject> ---->
 
-<!--- You can find both of these in the (url bar) when you open your repository in github. -->
 
 Description
 ---
-application description: Todo List app where you can add/delete/update with impleminting ROOM Database.
-i have learned editing on task and dealing with room.
-i have added the mdification data of an item.
+application description: Todo List app where you can add/delete with impleminting ROOM Database.
+i have learned how to delete the data from the recycler.
+
 
 
 Motivation and Context
 ---
-my goal is to become a valuble developer in the career field and try be one of the paticipators of the 2030 vision 
+my goal is to become a better developer and try be one of the paticipators of the 2030 vision 
 
 
  Screenshots
 ---
-### screenshot_1
-![image](https://user-images.githubusercontent.com/91477056/139562240-ebb081d0-c903-41d0-a2f2-9abdf6496ff1.png) 
-### screenshot_2
-![image](https://user-images.githubusercontent.com/91477056/139562264-f59a669b-a1d2-4ce7-aa6f-0abc6a7859e1.png)
-### screenshot_3
-![image](https://user-images.githubusercontent.com/91477056/139562304-e278bf6c-a620-4344-a85c-bf7c2de266bf.png)
-### screenshot_4
-![image](https://user-images.githubusercontent.com/91477056/139562343-56e2fb0e-707d-45d4-af26-4cf40fa7bf39.png)
+![image](https://user-images.githubusercontent.com/91477056/139569418-4872c424-69b9-4f69-88ee-b4d5b1c28975.png)
+
+![image](https://user-images.githubusercontent.com/91477056/139569433-e9a757b0-ae00-4510-9ec6-c90d178d9edf.png)
+
+![image](https://user-images.githubusercontent.com/91477056/139569452-5b62a5ae-20c2-485c-af65-1b0c6957e7d4.png)
+
+![image](https://user-images.githubusercontent.com/91477056/139569495-3578a55f-8cad-4015-b401-625ac1a463d5.png)
+
+
+ 
+
 
 
 
